@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerConfig>
+	<SourceDB>
+		<!-- 主库名字 -->
+		<AppName>debuger</AppName>
+		<DBType>0</DBType>
+		<Host>10.17.1.11</Host>
+		<Port>3306</Port>
+		<!-- 定义库名字 -->
+		<DBName>debugerde</DBName>
+		<User>qaadmin</User>
+		<Password>nicaia</Password>
+	</SourceDB>
+</ServerConfig>
+
